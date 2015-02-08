@@ -39,6 +39,13 @@ group :development, :test do
   gem 'spring'
 end
 
+group :test do
+  gem 'guard-minitest'
+  gem 'wdm', '>= 0.1.0' if Gem.win_platform?
+  gem 'minitest'
+  gem 'minitest-reporters'
+end
+
 group :production do
   gem 'pg'
   gem 'rails_12factor'
