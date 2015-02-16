@@ -106,8 +106,8 @@
       <file leaf-file-name="production.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.65217394" vertical-offset="799" max-vertical-offset="1445">
-              <caret line="62" column="70" selection-start-line="62" selection-start-column="70" selection-end-line="62" selection-end-column="70" />
+            <state vertical-scroll-proportion="0.01058201" vertical-offset="1067" max-vertical-offset="1445">
+              <caret line="63" column="100" selection-start-line="63" selection-start-column="100" selection-end-line="63" selection-end-column="100" />
               <folding />
             </state>
           </provider>
@@ -595,7 +595,13 @@
       <option name="project" value="LOCAL" />
       <updated>1424074174948</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Static Images on S3">
+      <created>1424076454223</created>
+      <option name="number" value="00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1424076454223</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -654,7 +660,8 @@
     <MESSAGE value="Adding layout part 1" />
     <MESSAGE value="Adding layout part 2" />
     <MESSAGE value="Adding Image and New Index file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding Image and New Index file" />
+    <MESSAGE value="Static Images on S3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Static Images on S3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1086,8 +1093,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.65217394" vertical-offset="799" max-vertical-offset="1445">
-          <caret line="62" column="70" selection-start-line="62" selection-start-column="70" selection-end-line="62" selection-end-column="70" />
+        <state vertical-scroll-proportion="0.01058201" vertical-offset="1067" max-vertical-offset="1445">
+          <caret line="63" column="100" selection-start-line="63" selection-start-column="100" selection-end-line="63" selection-end-column="100" />
           <folding />
         </state>
       </provider>
