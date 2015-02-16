@@ -1,143 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="79b3b2ed-0172-42d0-8a1e-81d8a7de0e8c" name="Default" comment="Adding layout part 2">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/photos/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/user/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/work/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/clients/1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/parallax/1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/photos/10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/photos/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/user/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/work/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/clients/2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/parallax/2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/photos/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/user/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/work/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/clients/3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/parallax/3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/photos/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/user/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/work/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/clients/4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/parallax/4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/photos/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/user/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/work/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/clients/5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/photos/6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/clients/6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/photos/7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/photos/8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/photos/9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/arrow_large_left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/arrow_large_right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/arrow_left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/arrow_left2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/arrow_right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/arrow_right2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/arrowleft.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/arrowright.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/parallax/arrows.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/arrows.psd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/back.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/back2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/bg_direction_nav.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/black50.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/boxed_bgtile.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/prettyPhoto/dark_rounded/btnNext.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/prettyPhoto/dark_square/btnNext.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/prettyPhoto/facebook/btnNext.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/prettyPhoto/light_rounded/btnNext.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/prettyPhoto/light_square/btnNext.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/prettyPhoto/dark_rounded/btnPrevious.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/prettyPhoto/dark_square/btnPrevious.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/prettyPhoto/facebook/btnPrevious.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/prettyPhoto/light_rounded/btnPrevious.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/prettyPhoto/light_square/btnPrevious.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/bullet.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/bullet_boxed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/bullets.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/bullets.psd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/bullets2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/coloredbg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/prettyPhoto/dark_rounded/contentPattern.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/prettyPhoto/dark_square/contentPattern.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/prettyPhoto/facebook/contentPatternBottom.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/prettyPhoto/facebook/contentPatternLeft.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/prettyPhoto/facebook/contentPatternRight.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/prettyPhoto/facebook/contentPatternTop.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/cream.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/prettyPhoto/default/default_thumb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/prettyPhoto/dark_rounded/default_thumbnail.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/prettyPhoto/dark_square/default_thumbnail.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/prettyPhoto/facebook/default_thumbnail.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/prettyPhoto/light_rounded/default_thumbnail.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/prettyPhoto/light_square/default_thumbnail.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/favicon/favicon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/footer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/grain.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/gridtile.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/gridtile_3x3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/gridtile_3x3_white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/gridtile_white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/photos/l1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/photos/l2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/photos/l3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/photos/l4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/photos/l5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/large_left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/large_right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/prettyPhoto/dark_rounded/loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/prettyPhoto/dark_square/loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/prettyPhoto/default/loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/prettyPhoto/facebook/loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/prettyPhoto/light_rounded/loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/prettyPhoto/light_square/loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/loader2.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/navigdots.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/navigdots_bgtile.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/page-head.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/slider/s11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/slider/s21.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/slider/s22.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/slider/s23.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/sep.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/shadow1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/shadow2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/shadow3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/slider/slide1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/slider/slide2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/small_arrows.psd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/small_left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/small_left_boxed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/small_right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/small_right_boxed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/prettyPhoto/dark_rounded/sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/prettyPhoto/dark_square/sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/prettyPhoto/default/sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/prettyPhoto/facebook/sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/prettyPhoto/light_rounded/sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/prettyPhoto/light_square/sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/prettyPhoto/default/sprite_next.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/prettyPhoto/default/sprite_prev.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/prettyPhoto/default/sprite_x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/prettyPhoto/default/sprite_y.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/timer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/timerdot.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/transparent.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/photos/user-big.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/img/photos/user-small.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/white50.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/application.css" afterPath="$PROJECT_DIR$/app/assets/stylesheets/application.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/custom.css.scss" afterPath="$PROJECT_DIR$/app/assets/stylesheets/custom.css.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/sample_app.iml" afterPath="$PROJECT_DIR$/.idea/sample_app.iml" />
+    <list default="true" id="79b3b2ed-0172-42d0-8a1e-81d8a7de0e8c" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/environments/production.rb" afterPath="$PROJECT_DIR$/config/environments/production.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="sample_app.iws" />
@@ -228,11 +93,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="application.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.39130434" vertical-offset="0" max-vertical-offset="408">
-              <caret line="9" column="53" selection-start-line="9" selection-start-column="53" selection-end-line="9" selection-end-column="53" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
+              <caret line="18" column="3" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="production.rb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.65217394" vertical-offset="799" max-vertical-offset="1445">
+              <caret line="62" column="70" selection-start-line="62" selection-start-column="70" selection-end-line="62" selection-end-column="70" />
               <folding />
             </state>
           </provider>
@@ -267,12 +142,12 @@
         <option value="$PROJECT_DIR$/app/helpers/application_helper.rb" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/config/secrets.yml" />
-        <option value="$PROJECT_DIR$/config/environments/production.rb" />
         <option value="$PROJECT_DIR$/app/views/static_pages/home.html.erb" />
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/custom.css.scss" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/application.css" />
+        <option value="$PROJECT_DIR$/config/environments/production.rb" />
       </list>
     </option>
   </component>
@@ -438,6 +313,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sample_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sample_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -696,12 +589,18 @@
       <option name="project" value="LOCAL" />
       <updated>1424002315330</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Adding Image and New Index file">
+      <created>1424074174922</created>
+      <option name="number" value="00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1424074174948</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32744783" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34670946" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -715,7 +614,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27987897" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27987897" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32744783" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -754,7 +653,8 @@
     <MESSAGE value="Added fix to ENV SECRET BASE" />
     <MESSAGE value="Adding layout part 1" />
     <MESSAGE value="Adding layout part 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding layout part 2" />
+    <MESSAGE value="Adding Image and New Index file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding Image and New Index file" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1089,13 +989,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.64116096" vertical-offset="1066" max-vertical-offset="1445">
-          <caret line="77" column="58" selection-start-line="77" selection-start-column="58" selection-end-line="77" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/secrets.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.16393442" vertical-offset="127" max-vertical-offset="493">
@@ -1185,8 +1078,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.39130434" vertical-offset="0" max-vertical-offset="408">
-          <caret line="9" column="53" selection-start-line="9" selection-start-column="53" selection-end-line="9" selection-end-column="53" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
+          <caret line="18" column="3" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.65217394" vertical-offset="799" max-vertical-offset="1445">
+          <caret line="62" column="70" selection-start-line="62" selection-start-column="70" selection-end-line="62" selection-end-column="70" />
           <folding />
         </state>
       </provider>
