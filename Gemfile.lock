@@ -63,6 +63,8 @@ GEM
     erubis (2.7.0)
     execjs (2.2.2)
     ffi (1.9.6-x86-mingw32)
+    font-awesome-rails (4.3.0.0)
+      railties (>= 3.2, < 5.0)
     formatador (0.2.5)
     globalid (0.3.0)
       activesupport (>= 4.1.0)
@@ -211,6 +213,7 @@ DEPENDENCIES
   bootstrap-sass (= 3.2.0.0)
   byebug
   coffee-rails (~> 4.1.0)
+  font-awesome-rails
   guard-minitest
   jbuilder (~> 2.0)
   jquery-rails
