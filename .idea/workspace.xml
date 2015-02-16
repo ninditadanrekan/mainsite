@@ -106,8 +106,8 @@
       <file leaf-file-name="production.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3323442" vertical-offset="619" max-vertical-offset="1496">
-              <caret line="43" column="44" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="44" />
+            <state vertical-scroll-proportion="0.6973294" vertical-offset="496" max-vertical-offset="1496">
+              <caret line="43" column="2" selection-start-line="43" selection-start-column="2" selection-end-line="43" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -607,7 +607,13 @@
       <option name="project" value="LOCAL" />
       <updated>1424080762013</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="mbuh">
+      <created>1424082037587</created>
+      <option name="number" value="00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1424082037587</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -671,7 +677,8 @@
     <MESSAGE value="Static Images on again" />
     <MESSAGE value="Pake Cloudfront" />
     <MESSAGE value="Pake Cloudfront lagi" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pake Cloudfront lagi" />
+    <MESSAGE value="mbuh" />
+    <option name="LAST_COMMIT_MESSAGE" value="mbuh" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1103,8 +1110,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3323442" vertical-offset="619" max-vertical-offset="1496">
-          <caret line="43" column="44" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="44" />
+        <state vertical-scroll-proportion="0.6973294" vertical-offset="496" max-vertical-offset="1496">
+          <caret line="43" column="2" selection-start-line="43" selection-start-column="2" selection-end-line="43" selection-end-column="2" />
           <folding />
         </state>
       </provider>
