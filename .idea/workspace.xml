@@ -107,7 +107,7 @@
         <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.64688426" vertical-offset="802" max-vertical-offset="1445">
-              <caret line="60" column="77" selection-start-line="60" selection-start-column="77" selection-end-line="60" selection-end-column="77" />
+              <caret line="60" column="48" selection-start-line="60" selection-start-column="48" selection-end-line="60" selection-end-column="48" />
               <folding />
             </state>
           </provider>
@@ -607,7 +607,13 @@
       <option name="project" value="LOCAL" />
       <updated>1424077090690</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Static Images on again">
+      <created>1424078361156</created>
+      <option name="number" value="00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1424078361156</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -668,7 +674,8 @@
     <MESSAGE value="Adding Image and New Index file" />
     <MESSAGE value="Static Images on S3" />
     <MESSAGE value="Static Images on S3 again" />
-    <option name="LAST_COMMIT_MESSAGE" value="Static Images on S3 again" />
+    <MESSAGE value="Static Images on again" />
+    <option name="LAST_COMMIT_MESSAGE" value="Static Images on again" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1101,7 +1108,7 @@
     <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.64688426" vertical-offset="802" max-vertical-offset="1445">
-          <caret line="60" column="77" selection-start-line="60" selection-start-column="77" selection-end-line="60" selection-end-column="77" />
+          <caret line="60" column="48" selection-start-line="60" selection-start-column="48" selection-end-line="60" selection-end-column="48" />
           <folding />
         </state>
       </provider>
