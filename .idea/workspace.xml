@@ -76,8 +76,8 @@
       <file leaf-file-name="Gemfile" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1122">
-              <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="663" max-vertical-offset="1122">
+              <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -106,8 +106,8 @@
       <file leaf-file-name="production.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.64688426" vertical-offset="802" max-vertical-offset="1445">
-              <caret line="60" column="62" selection-start-line="60" selection-start-column="62" selection-end-line="60" selection-end-column="62" />
+            <state vertical-scroll-proportion="0.3323442" vertical-offset="619" max-vertical-offset="1496">
+              <caret line="43" column="44" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="44" />
               <folding />
             </state>
           </provider>
@@ -601,7 +601,13 @@
       <option name="project" value="LOCAL" />
       <updated>1424078868902</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Pake Cloudfront lagi">
+      <created>1424080761972</created>
+      <option name="number" value="00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1424080762013</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -664,7 +670,8 @@
     <MESSAGE value="Static Images on S3 again" />
     <MESSAGE value="Static Images on again" />
     <MESSAGE value="Pake Cloudfront" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pake Cloudfront" />
+    <MESSAGE value="Pake Cloudfront lagi" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pake Cloudfront lagi" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1062,14 +1069,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1122">
-          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-5.0384617" vertical-offset="7927" max-vertical-offset="9197">
@@ -1094,10 +1093,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="663" max-vertical-offset="1122">
+          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.64688426" vertical-offset="802" max-vertical-offset="1445">
-          <caret line="60" column="62" selection-start-line="60" selection-start-column="62" selection-end-line="60" selection-end-column="62" />
+        <state vertical-scroll-proportion="0.3323442" vertical-offset="619" max-vertical-offset="1496">
+          <caret line="43" column="44" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="44" />
           <folding />
         </state>
       </provider>
