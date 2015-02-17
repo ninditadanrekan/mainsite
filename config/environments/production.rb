@@ -10,7 +10,7 @@ Rails.application.configure do
   # Rake tasks automatically ignore this option for performance.
   config.eager_load = true
 
-  config.assets.precompile += %w( .svg .eot .woff .ttf )
+#  config.assets.precompile += %w( .svg .eot .woff .ttf )
 
   config.serve_static_assets = true
   config.action_dispatch.x_sendfile_header = 'X-Accel-Redirect'
@@ -63,7 +63,7 @@ Rails.application.configure do
   # config.cache_store = :mem_cache_store
 
   # Enable serving of images, stylesheets, and JavaScripts from an asset server.
- #   config.action_controller.asset_host = 'http://d3uj4jzngsr100.cloudfront.net'
+    config.action_controller.asset_host = 'http://d3uj4jzngsr100.cloudfront.net'
 
   # Ignore bad email addresses and do not raise email delivery errors.
   # Set this to true and configure the email server for immediate delivery to raise delivery errors.
