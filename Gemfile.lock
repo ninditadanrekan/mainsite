@@ -116,7 +116,6 @@ GEM
     notiffany (0.0.4)
       nenv (~> 0.1)
       shellany (~> 0.0)
-    pg (0.18.1-x86-mingw32)
     pry (0.10.1-x86-mingw32)
       coderay (~> 1.1.0)
       method_source (~> 0.8.1)
@@ -219,7 +218,6 @@ DEPENDENCIES
   jquery-rails
   minitest
   minitest-reporters
-  pg
   rails (= 4.2.0)
   rails_12factor
   sass-rails (~> 5.0)
