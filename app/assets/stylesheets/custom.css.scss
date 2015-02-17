@@ -4,13 +4,16 @@
 
 @font-face {
   font-family: 'Proxima Nova';
-  src: url('proximanova-regular-webfont?#iefix') format('embedded-opentype'),
-  url('proximanova-webfont-regular.woff') format('woff'),
-  url('proximanova-webfont-regular.svg#proxima_nova_rgregular') format('svg');
+  src: url('proximanova-regular-webfont.eot');
+  src: url('proximanova-regular-webfont.eot?#iefix') format('embedded-opentype'),
+  url('proximanova-regular-webfont.woff2') format('woff2'),
+  url('proximanova-regular-webfont.woff') format('woff'),
+  url('proximanova-regular-webfont.ttf') format('truetype'),
+  url('proximanova-regular-webfont.svg#proximanova-regular-webfont') format('svg');
   font-weight: normal;
   font-style: normal;
-}
 
+}
 
 /*!
  * Bootstrap v3.1.1 (http://getbootstrap.com)
