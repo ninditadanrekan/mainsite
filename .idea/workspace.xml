@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="79b3b2ed-0172-42d0-8a1e-81d8a7de0e8c" name="Default" comment="">
+    <list default="true" id="79b3b2ed-0172-42d0-8a1e-81d8a7de0e8c" name="Default" comment="Merapikan">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/custom.css.scss" afterPath="$PROJECT_DIR$/app/assets/stylesheets/custom.css.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -86,8 +86,8 @@
       <file leaf-file-name="custom.css.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/custom.css.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.33126935" vertical-offset="59121" max-vertical-offset="92922">
-              <caret line="3484" column="34" selection-start-line="3484" selection-start-column="34" selection-end-line="3484" selection-end-column="34" />
+            <state vertical-scroll-proportion="0.38390094" vertical-offset="86032" max-vertical-offset="92922">
+              <caret line="5068" column="28" selection-start-line="5068" selection-start-column="28" selection-end-line="5068" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -274,6 +274,32 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sample_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sample_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -619,7 +645,13 @@
       <option name="project" value="LOCAL" />
       <updated>1424140697165</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Merapikan">
+      <created>1424142432016</created>
+      <option name="number" value="00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1424142432016</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -663,7 +695,6 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="Routing to Application controller Hello" />
     <MESSAGE value="Adding Static Pages via Controller&#10;&#10;home &#10;help" />
     <MESSAGE value="Adding about" />
     <MESSAGE value="Finish static pages" />
@@ -688,7 +719,8 @@
     <MESSAGE value="No PG" />
     <MESSAGE value="Yes PG" />
     <MESSAGE value="Merapiikan" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merapiikan" />
+    <MESSAGE value="Merapikan" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merapikan" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1112,8 +1144,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/custom.css.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33126935" vertical-offset="59121" max-vertical-offset="92922">
-          <caret line="3484" column="34" selection-start-line="3484" selection-start-column="34" selection-end-line="3484" selection-end-column="34" />
+        <state vertical-scroll-proportion="0.38390094" vertical-offset="86032" max-vertical-offset="92922">
+          <caret line="5068" column="28" selection-start-line="5068" selection-start-column="28" selection-end-line="5068" selection-end-column="28" />
           <folding />
         </state>
       </provider>
