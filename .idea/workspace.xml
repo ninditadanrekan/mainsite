@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79b3b2ed-0172-42d0-8a1e-81d8a7de0e8c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -77,8 +76,8 @@
       <file leaf-file-name="Gemfile" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5217391" vertical-offset="731" max-vertical-offset="1122">
-              <caret line="55" column="1" selection-start-line="55" selection-start-column="1" selection-end-line="55" selection-end-column="1" />
+            <state vertical-scroll-proportion="0.5217391" vertical-offset="714" max-vertical-offset="1105">
+              <caret line="54" column="22" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -556,7 +555,13 @@
       <option name="project" value="LOCAL" />
       <updated>1424139806855</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="No PG">
+      <created>1424139931273</created>
+      <option name="number" value="00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1424139931273</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -624,7 +629,8 @@
     <MESSAGE value="helpless" />
     <MESSAGE value="Pushing javasciprt" />
     <MESSAGE value="Merapikan kembali" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merapikan kembali" />
+    <MESSAGE value="No PG" />
+    <option name="LAST_COMMIT_MESSAGE" value="No PG" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1048,8 +1054,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5217391" vertical-offset="731" max-vertical-offset="1122">
-          <caret line="55" column="1" selection-start-line="55" selection-start-column="1" selection-end-line="55" selection-end-column="1" />
+        <state vertical-scroll-proportion="0.5217391" vertical-offset="714" max-vertical-offset="1105">
+          <caret line="54" column="22" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
           <folding />
         </state>
       </provider>
