@@ -86,8 +86,8 @@
       <file leaf-file-name="custom.css.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/custom.css.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.38390094" vertical-offset="86032" max-vertical-offset="92922">
-              <caret line="5068" column="28" selection-start-line="5068" selection-start-column="28" selection-end-line="5068" selection-end-column="28" />
+            <state vertical-scroll-proportion="0.6996904" vertical-offset="86032" max-vertical-offset="92922">
+              <caret line="5074" column="38" selection-start-line="5074" selection-start-column="38" selection-end-line="5074" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -651,7 +651,13 @@
       <option name="project" value="LOCAL" />
       <updated>1424142432016</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Merapikan">
+      <created>1424144076303</created>
+      <option name="number" value="00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1424144076303</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1144,8 +1150,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/custom.css.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.38390094" vertical-offset="86032" max-vertical-offset="92922">
-          <caret line="5068" column="28" selection-start-line="5068" selection-start-column="28" selection-end-line="5068" selection-end-column="28" />
+        <state vertical-scroll-proportion="0.6996904" vertical-offset="86032" max-vertical-offset="92922">
+          <caret line="5074" column="38" selection-start-line="5074" selection-start-column="38" selection-end-line="5074" selection-end-column="38" />
           <folding />
         </state>
       </provider>
