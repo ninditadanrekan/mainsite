@@ -4,12 +4,12 @@
 
 @font-face {
   font-family: 'Proxima Nova';
-  src: url('proximanova-regular-webfont.eot');
-  src: url('proximanova-regular-webfont.eot?#iefix') format('embedded-opentype'),
-  url('proximanova-regular-webfont.woff2') format('woff2'),
-  url('proximanova-regular-webfont.woff') format('woff'),
-  url('proximanova-regular-webfont.ttf') format('truetype'),
-  url('proximanova-regular-webfont.svg#proximanova-regular-webfont') format('svg');
+  src: assets-url('proximanova-regular-webfont.eot');
+  src: assets-url('proximanova-regular-webfont.eot?#iefix') format('embedded-opentype'),
+  assets-url('proximanova-regular-webfont.woff2') format('woff2'),
+  assets-url('proximanova-regular-webfont.woff') format('woff'),
+  assets-url('proximanova-regular-webfont.ttf') format('truetype'),
+  assets-url('proximanova-regular-webfont.svg#proximanova-regular-webfont') format('svg');
   font-weight: normal;
   font-style: normal;
 
@@ -31,7 +31,7 @@
  * Copyright 2012 WooThemes
  * Free to use under the GPLv2 license.
  * http://www.gnu.org/licenses/gpl-2.0.html
- *
+ * s
  * Contributing author: Tyler Smith (@mbmufffin)
  */
 
