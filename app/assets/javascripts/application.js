@@ -13,5 +13,6 @@
 //= require jquery
 //= require jquery.turbolinks
 //= require jquery_ujs
+//= require prettyphoto-rails
 //= require turbolinks
 //= require_tree .
