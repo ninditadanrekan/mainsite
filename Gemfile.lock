@@ -119,6 +119,11 @@ GEM
     notiffany (0.0.4)
       nenv (~> 0.1)
       shellany (~> 0.0)
+    prettyphoto-rails (0.2.1)
+      jquery-rails
+      rails (>= 3.1)
+      sass-rails
+      uglifier
     pry (0.10.1-x86-mingw32)
       coderay (~> 1.1.0)
       method_source (~> 0.8.1)
@@ -222,6 +227,7 @@ DEPENDENCIES
   jquery-turbolinks
   minitest
   minitest-reporters
+  prettyphoto-rails
   rails (= 4.2.0)
   rails_12factor
   sass-rails (~> 5.0)
