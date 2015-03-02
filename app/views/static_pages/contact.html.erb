@@ -25,7 +25,7 @@
                  <%= label_tag 'comments', 'Comments' %>
                  <%= text_area_tag 'comments', nil, class: 'form-control', rows: 4, placeholder: 'Comments...' %>
              </div>
-             <%= recaptcha_tags %><br>
+             <%= recaptcha_tags ajax: true %><br>
              <%= submit_tag nil, value: "Send", class: 'btn btn-default' %>
              <button type="reset" class="btn btn-default">Reset</button>
               <% end %>
