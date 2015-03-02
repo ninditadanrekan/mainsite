@@ -8,9 +8,9 @@ class ContactMailer < ActionMailer::Base
     default to: 'nindita@keruyuk.com'
 
     def contact_email(name, email, body)
-        @name = name
+        @name  = name
         @email = email
-        @body = body
+        @body  = body
 
         mail(from: email, subject: 'Contact Request')
     end

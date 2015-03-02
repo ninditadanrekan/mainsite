@@ -3,20 +3,14 @@
   <div class="container">
     <div class="row">
       <div class="col-md-12">
-        <!-- Contact -->
-
-        <!-- Google maps -->
         <div class="gmap">
-          <!-- Google Maps. Replace the below iframe with your Google Maps embed code -->
+          <!-- Google Maps embed code -->
           <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d990.0069740768007!2d110.48209699999998!3d-7.005998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e708d045753e167%3A0x1344516d794864dd!2sPT+Keruyuk+Media+Utama!5e0!3m2!1sen!2sid!4v1424159255316" width="600" height="450" frameborder="0" style="border:0"></iframe>
         </div>
-
-
         <div class="bor"></div>
         <div class="row">
           <div class="col-md-6">
             <div class="cwell">
-              <!-- Contact form -->
               <h4 class="title">Contact Form</h4>
               <%= form_tag(send_mail_path) do %>
               <div class="form-group">
@@ -31,81 +25,37 @@
                  <%= label_tag 'comments', 'Comments' %>
                  <%= text_area_tag 'comments', nil, class: 'form-control', rows: 4, placeholder: 'Comments...' %>
              </div>
-             <%= submit_tag nil, class: 'btn btn-default btn-about pull-right' %>
+             <%= submit_tag nil, class: 'btn btn-default' %>
+             <button type="reset" class="btn btn-default">Reset</button>
               <% end %>
               <hr />
             </div>
           </div>
           <div class="col-md-6">
             <div class="cwell">
-              <!-- Address section -->
               <h4 class="title">Address</h4>
               <div class="address">
                 <address>
-                  <!-- Company name -->
                   <strong>PT Keruyuk Media Utama</strong><br>
-                  <!-- Address -->
                   Graha Rias Yenny Lt. 2<br>
                   Jl. Arya Mukti Barat no. 558<br>
                   Semarang 50196<br>
-                  <!-- Phone number -->
                   <abbr title="Phone">P:</abbr> (024) 671-0986.
                 </address>
-
                 <address>
-                  <!-- Name -->
                   <strong>Sales Dept.</strong><br>
-                  <!-- Email -->
                   <a href="mailto:#">sales@keruyuk.co.id</a>
                 </address>
-
-                <!-- Social media icons -->
                 <strong>Get in touch:</strong>
                 <div class="social">
-                  <a href="#"><i class="fa fa-facebook facebook"></i></a>
-                  <a href="#"><i class="fa fa-twitter twitter"></i></a>
+                  <a href="https://www.facebook.com/keruyuk"><i class="fa fa-facebook facebook"></i></a>
+                  <a href="https://plus.google.com/101837163689193226753"><i class="fa fa-google-plus google-plus"></i></a>
+                  <a href="https://twitter.com/KeruyukMedia"><i class="fa fa-twitter twitter"></i></a>
                 </div>
               </div>
               <hr />
             </div>
           </div>
-        </div>
-
-
-      </div>
-    </div>
-  </div>
-</div>
-
-<!-- Page content ends -->
-
-<!-- CTA Starts -->
-
-<div class="container">
-  <div class="cta">
-    <div class="row">
-      <div class="col-md-5 col-sm-5">
-        <div class="ctas">
-          <!-- Title and Para -->
-          <h5>Professional Product Ever Made in Internet</h5>
-          <p>Sed diam nisi, pulvinar vitae molestie vitae molestie hendreri hendrerit, venenatis eget mauris.</p>
-        </div>
-      </div>
-      <div class="col-md-4 col-sm-4">
-        <div class="ctas">
-          <!-- List -->
-          <ul>
-            <li>Very Cheap in Market. Check it today.</li>
-            <li>Professional and Powerful. Don't miss it.</li>
-            <li>1000% Guanrantee. No Worries. No Probs.</li>
-          </ul>
-        </div>
-      </div>
-      <div class="col-md-3 col-sm-3">
-        <div class="ctas">
-          <!-- Button -->
-          <div class="button"><a href="#">Buy it Today for $99</a></div>
-          <p>limited period offer</p>
         </div>
       </div>
     </div>

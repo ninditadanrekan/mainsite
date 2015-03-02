@@ -2,33 +2,20 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <!-- Title here -->
   <title><%= full_title(yield(:title)) %></title>
   <%= stylesheet_link_tag    'application', media: 'all',
                              'data-turbolinks-track' => true %>
   <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
   <%= csrf_meta_tags %>
-  <!-- Description, Keywords and Author -->
-  <meta name="description" content="Your description">
-  <meta name="keywords" content="Your,Keywords">
-  <meta name="author" content="ResponsiveWebInc">
-
+  <meta name="description" content="keruyuk media is software company">
+  <meta name="keywords" content="software,cloud,mobile,web,development">
+  <meta name="author" content="PT Keruyuk Media Utama">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
 </head>
-
 <body>
-
-<!-- Header starts -->
 <%= render 'layouts/header' %>
-
-<!-- Content starts -->
 <%= yield %>
-
 <%= render 'layouts/footer' %>
-
 <span class="totop"><a href="#"><i class="fa fa-chevron-up"></i></a></span>
-
-
 </body>
 </html>
