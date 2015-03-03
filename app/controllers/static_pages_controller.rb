@@ -14,9 +14,11 @@ class StaticPagesController < ApplicationController
     email = params[:email]
     body  = params[:comments]
     if verify_recaptcha == true
-    ContactMailer.contact_email(name, email, body).deliver_now	
-    redirect_to contact_path, notice: 'Message sent'
-    else render 'layouts/captcha'
+      ContactMailer.contact_email(name, email, body).deliver_now	
+      flash[:notice] = 'Message sent'
+      redirect_to contact_path
+    else 
+      render 'layouts/captcha'
     end
   end
 end
