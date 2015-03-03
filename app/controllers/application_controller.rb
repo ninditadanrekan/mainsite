@@ -10,6 +10,6 @@ class ContactMailer < ActionMailer::Base
         @name  = name
         @email = email
         @body  = body
-        mail(reply_to: email, subject: 'Contact Request')
+        mail(from: email, reply_to: email, subject: 'Contact Request')
     end
 end
