@@ -18,7 +18,8 @@ class StaticPagesController < ApplicationController
       flash[:notice] = 'Message sent'
       redirect_to contact_path
     else 
-      render 'layouts/captcha'
+      flash[:notice] = 'Invalid captcha'
+      redirect_to contact_path
     end
   end
 end
