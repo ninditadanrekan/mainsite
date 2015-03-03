@@ -16,10 +16,9 @@ class StaticPagesController < ApplicationController
     if verify_recaptcha == true
       ContactMailer.contact_email(name, email, body).deliver_now	
       flash[:success] = 'success'
-      redirect_to contact_path
-    else 
-      # flash[:danger] = "error ya"
-      redirect_to contact_path
+      redirect_to contact_path(anchor: "notifikasi")
+    else
+      redirect_to contact_path(anchor: "notifikasi")
     end
   end
 end

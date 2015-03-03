@@ -15,11 +15,11 @@
               <% flash.each do |name, msg| %>
               <% if msg.is_a?(String) %>
               <% if name == "recaptcha_error" %>
-              <div class="alert alert-danger">
+              <div class="alert alert-danger" id="notifikasi">
                   <a href="#" class="close" data-dismiss="alert">&times;</a>
                   <strong>Error!</strong> Invalid captcha.
               <% else %>
-              <div class="alert alert-success">
+              <div class="alert alert-success" id="notifikasi">
                   <a href="#" class="close" data-dismiss="alert">&times;</a>
                   <strong>Success!</strong> Your message has been sent successfully.
               <% end %>
