@@ -6,11 +6,8 @@
 
 # just testing
 # Ignore bundler config.
-*.css
+
 *.svg
 *.ttf
 *.woff
 *.woff2
-*.js
-*.coffee
-*.scss
