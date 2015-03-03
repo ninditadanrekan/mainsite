@@ -16,7 +16,8 @@ gem 'therubyracer', platforms: :ruby
 
 # use font-awesome
 gem 'font-awesome-rails'
-gem "recaptcha", :require => "recaptcha/rails"
+# gem "recaptcha", :require => "recaptcha/rails"
+gem "recaptcha", github: "ambethia/recaptcha"
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
