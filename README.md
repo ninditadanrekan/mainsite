@@ -3,7 +3,7 @@
 ___
 
 [![Join the chat at https://gitter.im/nindita/sample_app](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/nindita/sample_app?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![License](http://img.shields.io/:license-mit-blue.svg)](http://doge.mit-license.org)
+[![License](http://img.shields.io/:license-mit-blue.svg)](http://mit-license.org)
 [![Gratipay](http://img.shields.io/gratipay/KeruyukMedia.svg)](https://gratipay.com/KeruyukMedia/)
 
 This is source code for [official site](http://www.keruyuk.co.id)  
